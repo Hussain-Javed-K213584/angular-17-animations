@@ -1,0 +1,3 @@
+.smooth-move {
+    transition: margin 0.5s ease, transform 0.5s ease;
+}
