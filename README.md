@@ -1,6 +1,6 @@
-# AngularAnimations
+# Angular Animations - Slide in Animation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4. Created a slide in animation when the next button on a component is pressed. The previous component goes a bit up and it's opacity is decreased.
 
 ## Development server
 
